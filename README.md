@@ -25,7 +25,7 @@
 
 [![Discord Banner 1](https://discordapp.com/api/guilds/[702124814915338322]/widget.png?style=banner1)](https://discord.com/invite/H3ZBhtQ)
 
-[<img src="https://discordapp.com/api/guilds/[702124814915338322]/widget.png?style=shield" alt="Discord Shield"/>](https://discord.com/invite/H3ZBhtQ)
+<img src="https://discordapp.com/api/guilds/[702124814915338322]/widget.png?style=shield" alt="Discord Shield"/>
 
 ⚡ Fun fact: Cat urine glows under a black-light.
 
