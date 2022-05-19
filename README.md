@@ -9,9 +9,9 @@
 
 # 💫About Me :
   <div align="left">
-🔭 I’m currently working on: [Spectixen Network Web](http://stxn.rf.gd/?i=1)
+🔭 I’m currently working on: [Spectixen Network](http://stxn.rf.gd/)
   
-🌱 I’m currently learning: <p>![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)</p>
+🌱 I’m currently learning: <div>![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)</div>
 
 🤔 I’m always looking for help
 
