@@ -1,5 +1,5 @@
-<h1 align="center">
-  Welcome to <div>Yura's profile!</div>
+<h2 align="center">
+  Welcome to Yura's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
@@ -10,9 +10,9 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on my github page : [Spectixen Network Web](http://stxn.rf.gd/?i=1)
+🔭 I’m currently working on: [Spectixen Network Web](http://stxn.rf.gd/?i=1)
   
-🌱 I’m currently learning : Node.js
+🌱 I’m currently learning: ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 🤔 I’m always looking for help
 
