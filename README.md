@@ -18,9 +18,10 @@
 💬 Ask me about anything, I will gladly help! ^^
 
 📫 How to reach me:  
---
-    <a href="https://twitter.com/crazybrumik"> ![Twitter](https://img.shields.io/badge/CrazyBrumik-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.com/invite/H3ZBhtQ"> ![DiscordServer](https://img.shields.io/discord/702124814915338322?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
-</a>  ![Discord](https://img.shields.io/badge/Yura%232704-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+---
+<a href="https://twitter.com/crazybrumik">![Twitter](https://img.shields.io/badge/CrazyBrumik-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> 
+<a href="https://discord.com/invite/H3ZBhtQ">![DiscordServer](https://img.shields.io/discord/702124814915338322?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)</a>  
+![Discord](https://img.shields.io/badge/Yura%232704-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ⚡ Fun fact: Cat urine glows under a black-light.
 </div>
