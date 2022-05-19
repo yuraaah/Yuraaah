@@ -12,8 +12,7 @@
 
   <div align="left">
 🔭 I’m currently working on: My portfolio website!
-    
-  
+     
 🌱 I’m currently learning: 
     <p>![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)</p>
 
