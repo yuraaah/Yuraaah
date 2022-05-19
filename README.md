@@ -1,6 +1,6 @@
 <h3 align="center">🏆 Hi there! ^^ 🏆</h3>
   <p align="center">
-  <a href="https://github.com/yuraaah/Yuraaah"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+welcome+to+my+Github+page.;I+am+Yura!;The+co-owner+of+Spectixen+Network.;also+a+web+dev,+game+dev,+bot+dev;"></a>
+  <a href="https://github.com/yuraaah/Yuraaah"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+welcome+to+my+Github+page.;I+am+Yura!;The+co-owner+of+Spectixen+Network.;also+a+web+dev,+game+dev,+bot+dev.;"></a>
 </p>
 
 -------------------
@@ -18,6 +18,10 @@
 💬 Ask me about anything, I will gladly help! ^^
 
 📫 How to reach me:  
+    <a href="https://twitter.com/crazybrumik">![Twitter](https://img.shields.io/badge/LachlanDev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.com/invite/H3ZBhtQ">![DiscordServer](https://img.shields.io/discord/702124814915338322?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
+</a> ![Discord](https://img.shields.io/badge/LachlanDev%238014-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+    
+    
   - Discord: [`Yura#2704`](https://discord.com/users/274862758258802689)
   - Email: [`Click To Mail!`](mailto:crazybrumikcz@gmail.com) or copy **`crazybrumikcz@gmail.com`**
   - Or Contact me in this discord server: [Spectixen Network!](https://discord.com/invite/H3ZBhtQ)
