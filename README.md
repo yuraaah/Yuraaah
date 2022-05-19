@@ -1,11 +1,11 @@
 <div align="center">
-  <h3 align="left">Yura
-    </h3>
-  <h3 align="right">Co-owner of Spectixen Network
-  </h3>
+  <p align="left">Yura
+    </p>
+  <p align="right">Co-owner of Spectixen Network
+  </p>
 </div>
   <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+welcome+to+my+Github+page.;I+am+Yura!;I+am+a+student.;Web+Dev;Game+Dev;Bot+Dev;"></a>
+  <a href="https://github.com/yuraaah/Yuraaah"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+welcome+to+my+Github+page.;I+am+Yura!;I+am+a+student.;Web+Dev;Game+Dev;Bot+Dev;"></a>
 </p>
 
 ---
