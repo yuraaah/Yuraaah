@@ -1,13 +1,13 @@
-<div align="center">
-  <p align="left">Yura
-    </p>
-  <p align="right">Co-owner of Spectixen Network
-  </p>
-</div>
+<div>
+  <h3 align="left">Yura
+    </h3>
+  <h3 align="right">Co-owner of Spectixen Network
+  </h3>
+
   <p align="center">
   <a href="https://github.com/yuraaah/Yuraaah"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+welcome+to+my+Github+page.;I+am+Yura!;I+am+a+student.;Web+Dev;Game+Dev;Bot+Dev;"></a>
 </p>
-
+</div>
 ---
 <div align="center">
 
@@ -15,7 +15,7 @@
   <div align="left">
 🔭 I’m currently working on: [Spectixen Network Web](http://stxn.rf.gd/?i=1)
   
-🌱 I’m currently learning: ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+🌱 I’m currently learning: <p>![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)</p>
 
 🤔 I’m always looking for help
 
