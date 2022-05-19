@@ -6,7 +6,7 @@
 </p>
 
 ---
-<div align="center">
+<div align="left">
   
 # 💫About Me :
 🔭 I’m currently working on: [Spectixen Network Web](http://stxn.rf.gd/?i=1)
