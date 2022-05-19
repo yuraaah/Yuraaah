@@ -6,9 +6,10 @@
 </p>
 
 ---
-<div align="left">
-  
+<div align="center">
+
 # 💫About Me :
+  <div align="left">
 🔭 I’m currently working on: [Spectixen Network Web](http://stxn.rf.gd/?i=1)
   
 🌱 I’m currently learning: ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -23,7 +24,7 @@
   - Or Contact me in this discord server: [Spectixen Network!](https://discord.com/invite/H3ZBhtQ)
 
 ⚡ Fun fact: Cat urine glows under a black-light.
-
+</div>
 
 ## 🌐Socials
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CrazyBrumik) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/codeyura) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCjh6PkH4sIuB1ddwRdI_rjg) 
