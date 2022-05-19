@@ -23,9 +23,7 @@
 
 [![Discord](https://img.shields.io/badge/Yura%232704-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/274862758258802689)
 
-[![Discord Banner 1](https://discordapp.com/api/guilds/[702124814915338322]/widget.png?style=banner1)](https://discord.com/invite/H3ZBhtQ)
-
-<img src="https://discordapp.com/api/guilds/[702124814915338322]/widget.png?style=shield" alt="Discord Shield"/>
+[![Discord](https://img.shields.io/badge/Spectixen%23Network-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/H3ZBhtQ)
 
 ⚡ Fun fact: Cat urine glows under a black-light.
 
