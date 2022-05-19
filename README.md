@@ -1,4 +1,4 @@
-<h3 align="center">Hi there! ^^</h3>
+<h3 align="center">🏆 Hi there! ^^ 🏆</h3>
   <p align="center">
   <a href="https://github.com/yuraaah/Yuraaah"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+welcome+to+my+Github+page.;I+am+Yura!;The+co-owner+of+Spectixen+Network.;also+a+web+dev,+game+dev,+bot+dev;"></a>
 </p>
@@ -33,15 +33,10 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=yuraah&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yuraaah&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuraaah&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?yuraaah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
 ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 ![](https://forthebadge.com/images/badges/uses-brains.svg)
 ---
-![](https://komarev.com/ghpvc/?username=CodeWhiteWeb&label=Visitors+Count&color=brightgreen)
 </div>
