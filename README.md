@@ -34,7 +34,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yuraaah&theme=onedark&hide_border=false)<br/>
 
 ---
-![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
+![](https://forthebadge.com/images/badges/powered-by-spectixen-network.svg)
 ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 ![](https://forthebadge.com/images/badges/uses-brains.svg)
 ---
