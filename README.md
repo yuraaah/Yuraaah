@@ -15,12 +15,12 @@
     
 🌱 I’m currently learning: 
     <p>
-      In School bruv.
+      JavaScript, TypeScript and SpringBoot
     </p>
 
 🤔 I’m always looking for help
 
-💬 Ask me about anything, I will gladly help! ^^
+💬 Don't ask me, I don't know ^^
 
 ## 📫 How to reach me:
 
