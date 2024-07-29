@@ -13,10 +13,7 @@
   <div align="left">
 🔭 I’m currently working on: My portfolio website!
     
-🌱 I’m currently learning: 
-    <p>
-      JavaScript
-    </p>
+🌱 I’m currently learning: JavaScript
 
 🤔 I’m always looking for help
 
