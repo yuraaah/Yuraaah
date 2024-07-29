@@ -35,7 +35,7 @@
 
 # 💻Tech Stack 
 
-None
+Private Information
 
 # 📊GitHub Stats :
 
