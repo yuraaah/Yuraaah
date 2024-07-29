@@ -15,7 +15,7 @@
     
 🌱 I’m currently learning: 
     <p>
-      JavaScript, TypeScript and SpringBoot
+      JavaScript
     </p>
 
 🤔 I’m always looking for help
