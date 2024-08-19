@@ -11,8 +11,7 @@
 # 💫About Me :
 
   <div align="left">
-🔭 I’m currently working on: <a href="https://roadmap.sh/u/yura">RoadMap</a>
-
+🔭 I’m currently working on: <a href="https://roadmap.sh/u/yura">RoadMap</a>\n
     
 🌱 I’m currently learning: JavaScript
 
