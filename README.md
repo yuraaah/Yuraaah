@@ -13,7 +13,7 @@
   <div align="left">
 🔭 I’m currently working on: My Portfolio!
     
-🌱 I’m currently learning: <a href="https://roadmap.sh/u/yura">RoadMap </a>
+🌱 I’m currently learning: <a href="https://roadmap.sh/u/yura">Java </a>
 
 🤔 I’m always looking for help
 
