@@ -20,7 +20,7 @@
     
 
 ##### 🔭 I’m currently working on: <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuraaah&repo=my-minimal-portfolio&theme=midnight_purple)](https://github.com/yuraaah/my-minimal-portfolio)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuraaah&repo=to-do-app&theme=midnight_purple)](https://github.com/yuraaah/my-minimal-portfolio)<br>
     
 ##### 🌱 I’m currently learning:<a href="https://roadmap.sh/u/yura"> Java ☕</a>
 
