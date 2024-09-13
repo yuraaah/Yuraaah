@@ -20,7 +20,7 @@
     
 
 ##### 🔭 I’m currently working on: <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectixen-network&repo=torn-faction-management-app&theme=midnight_purple)]([[https://github.com/yuraaah/my-minimal-portfolio](https://github.com/Spectixen-Network/torn-faction-management-app)](https://github.com/Spectixen-Network/torn-faction-management-app))<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectixen-network&repo=torn-faction-management-app&theme=midnight_purple)](https://github.com/Spectixen-Network/torn-faction-management-app)<br>
     
 ##### 🌱 I’m currently learning:<a href="https://roadmap.sh/u/yura"> Java ☕</a>
 
