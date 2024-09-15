@@ -34,7 +34,7 @@
 [![Discord](https://img.shields.io/badge/Yuraaah-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/274862758258802689)
 [![Discord](https://img.shields.io/badge/Spectixen%20Network-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/H3ZBhtQ)
 
-⚡ Fun fact: Cat urine glows under a black light.
+⚡ Fun fact: Cat urine glows under a black light!
 
 </div>
 <br>
