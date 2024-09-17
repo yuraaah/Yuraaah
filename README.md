@@ -14,7 +14,7 @@
 
 <div align="left">
 
-# 💫About Me :
+# 💫About Mee :
 
   <div align="center">
     
