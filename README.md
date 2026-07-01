@@ -22,7 +22,7 @@
 ##### 🔭 I’m currently working on: <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectixen-network&repo=torn-faction-management-app&theme=midnight_purple)](https://github.com/Spectixen-Network/torn-faction-management-app)<br>
     
-##### 🌱 I’m currently learning:<a href="https://roadmap.sh/u/yura"> Java ☕</a>
+##### 🌱 I’m currently learning:<a href="https://roadmap.sh/u/yura"> React, React Native </a>
 
 ##### 🤔 I’m always looking for help
 
